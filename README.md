@@ -6,7 +6,7 @@ Coleção de Normas Regulamentadoras (NR) de Saúde e Segurança do Trabalho (SS
 
 ## Quais normas estão disponíveis?
 
-Estão disponíveis todas as 37 Normas Regulamentadoras existentes, em suas versões atualizadas (em 24/05/2022). Estão incluídas também algumas versões obsoletas de algumas das NR, que podem ser úteis na análise de demandas antigas de SST.
+Estão disponíveis todas as 37 Normas Regulamentadoras existentes, em suas versões atualizadas (até abril/2025). Estão incluídas também algumas versões obsoletas de algumas das NR, que podem ser úteis na análise de demandas antigas de SST.
 
 Estão disponíveis também manuais publicados pelo MTE, bem como portarias, instruções normativas e notas técnicas que esclarecem alguns critérios de interpretação usados pelos Auditores-Fiscais do Trabalho.
 
